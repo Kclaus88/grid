@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+}
+
+body {
+    background-color: #1e2642;
+}
+
+h5 {
+    font-weight: 700;
+}
+
+#social,
+#header,
+#left-side,
+#right-side,
+#partner,
+#partner-logo {
+    box-shadow: 5px 5px #1e2642, 10px 10px #68ecd8;
+}
+
+#line {
+    background-color: #68ecd8;
+    height: 5px;
+}
+
+#line2 {
+    background-color: #68ecd8;
+    height: 5px;
+    margin-top: 20px;
+}
+
+#right-side {
+    padding: 20px;
+}
+
+.nss {
+    font-size: bold;
+    font-weight: 900;
+}
+
+#left-side {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+#grey {
+    color: grey;
+    font-size: 12px;
+}
+
+#lss {
+    font-size: 10px;
+}
+
+#one {
+    font-size: 15px;
+}
+
+#partner {
+    margin-top: 20px;
+}
+
+#our {
+    padding-bottom: 20px;
+}
+
+#partner-logo {
+    margin-top: 20px;
+    padding: 20px;
+}
